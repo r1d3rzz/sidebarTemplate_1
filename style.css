@@ -263,11 +263,10 @@ body {
 }
 
 .sidebar-wrapper .sidebar-menu .sidebar-dropdown .sidebar-submenu li {
-  padding-left: 25px;
   font-size: 13px;
 }
 
-.sidebar-wrapper .sidebar-menu .sidebar-dropdown .sidebar-submenu li a:before {
+/* .sidebar-wrapper .sidebar-menu .sidebar-dropdown .sidebar-submenu li a:before {
   content: "\f111";
   font-family: "Font Awesome 5 Free";
   font-weight: 400;
@@ -279,7 +278,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   margin-right: 10px;
   font-size: 8px;
-}
+} */
 
 .sidebar-wrapper .sidebar-menu ul li a span.label,
 .sidebar-wrapper .sidebar-menu ul li a span.badge {
@@ -453,8 +452,8 @@ body {
   a:hover:before,
 .chiller-theme .sidebar-wrapper .sidebar-search input.search-menu:focus + span,
 .chiller-theme .sidebar-wrapper .sidebar-menu .sidebar-dropdown.active a i {
-  color: #16c7ff;
-  text-shadow: 0px 0px 10px rgba(22, 199, 255, 0.5);
+  color: #d6b7bb;
+  /* text-shadow: 0px 0px 10px rgba(22, 199, 255, 0.5); */
 }
 
 .chiller-theme .sidebar-wrapper .sidebar-menu ul li a i,
